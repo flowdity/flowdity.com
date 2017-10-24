@@ -1,4 +1,4 @@
 # Flowdity
 Blockchain Visual Smart Contracts
-## Support or Contact
+## Contact
 info@flowdity.com
